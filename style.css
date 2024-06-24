@@ -108,8 +108,13 @@ body{
 }
 
 .dispositivos__titulo {
-    font-size: 48px;
+    font-size: 32px;
     color: var(--branco-principal);
+}
+
+.rodape {
+    text-align: center;
+    margin: 5em 3em;
 }
 
 .lista__item {
