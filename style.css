@@ -122,11 +122,6 @@ body{
     color: var(--branco-principal);
 }
 
-.rodape {
-    text-align: center;
-    margin: 5em 3em;
-}
-
 .rodape__lista {
     display: flex;
     justify-content: center;
