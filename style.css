@@ -86,7 +86,7 @@ body{
 .descricao__texto {
     color: var(--cinza-secundario);
 }
-/* próxima aula */
+
 .secundario__botao {
     display: inline-block;
     margin-top: 1em;
@@ -108,7 +108,7 @@ body{
 }
 
 .dispositivos__titulo {
-    font-size: 32px;
+    font-size: 48px;
     color: var(--branco-principal);
 }
 
@@ -129,12 +129,12 @@ body{
     margin-top: 1em;
 }
 
-.lista__link a{
+.lista__link a {
     text-decoration: none;
     color: var(--branco-principal);
     margin-left: 1em;
 }
-
+/*add 01/07*/
 .rodape__texto {
     margin: 1em 0;
     color: var(--cinza-secundario);
